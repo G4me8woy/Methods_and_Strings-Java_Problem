@@ -1,2 +1,2 @@
 # Methods_and_Strings-Java_Problem
-My Solution to a Java Code Problem on Methods and Strings
+![challenge screenshot](./challenge_screenshot/screenshot.jpeg)
